@@ -1,4 +1,4 @@
-### usageF python scripts/trainer.py --annotations annotations_1625238548.8308449.jsonl  --imgsbasepath /beegfs/gva.inaitcloud.com/projects/object_detection_results/ImagesForAnnotators_June2021/  --model65;6003;1c65;6003;1c65;6003;1ctype "instance_segmentation" --classes Scratch Dent Broken Plate Face Gap Crack
+### usageF python scripts/trainer.py --annotations annotations_1625238548.8308449.jsonl  --imgsbasepath ImagesForAnnotators_June2021/  --modeltype "instance_segmentation" --classes Scratch Dent Broken Plate Face Gap Crack
 
 import argparse
 from pathlib import Path
