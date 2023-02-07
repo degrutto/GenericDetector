@@ -1,4 +1,4 @@
-### USAGE  python scripts/visualizeProdigyAnnotations.py  --annotations annotations_1625238548.8308449.jsonl --imgsbasepath /beegfs/gva.inaitcloud.com/projects/object_detection_results/ImagesForAnnotators_June2021
+### USAGE  python scripts/visualizeProdigyAnnotations.py  --annotations annotations_1625238548.8308449.jsonl --imgsbasepath 2021
 
 
 import argparse
