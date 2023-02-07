@@ -1,4 +1,4 @@
-### python preds_visualize.py --inputimgpath  /beegfs/gva.inaitcloud.com/projects/object_detection_results/ImagesForAnnotators_June2021/audia4_1.jpg --modeldir /beegfs/gva.inaitcloud.com/scratch/pipeline/v6/results/CarDetTrainAnonymize/spell/bassinet_titanium_revoke_flee_terrific/model0 --scorethresh 0.5
+### python preds_visualize.py --inputimgpath ImagesForAnnotators_June2021/car.jpg --modeldir model0 --scorethresh 0.5
 import argparse
 from pathlib import Path
 from axa.mrcnn.utils_det2infer2prodigy import build_predictor, build_prodigy_dict
